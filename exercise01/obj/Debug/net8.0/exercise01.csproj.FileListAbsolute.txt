@@ -1,0 +1,14 @@
+C:\Users\roanv\OneDrive\Documenten\howest 2023-2024\semister 2\advanced software engineering\ase_week02-03\exercise01\bin\Debug\net8.0\exercise01.exe
+C:\Users\roanv\OneDrive\Documenten\howest 2023-2024\semister 2\advanced software engineering\ase_week02-03\exercise01\bin\Debug\net8.0\exercise01.deps.json
+C:\Users\roanv\OneDrive\Documenten\howest 2023-2024\semister 2\advanced software engineering\ase_week02-03\exercise01\bin\Debug\net8.0\exercise01.runtimeconfig.json
+C:\Users\roanv\OneDrive\Documenten\howest 2023-2024\semister 2\advanced software engineering\ase_week02-03\exercise01\bin\Debug\net8.0\exercise01.dll
+C:\Users\roanv\OneDrive\Documenten\howest 2023-2024\semister 2\advanced software engineering\ase_week02-03\exercise01\bin\Debug\net8.0\exercise01.pdb
+C:\Users\roanv\OneDrive\Documenten\howest 2023-2024\semister 2\advanced software engineering\ase_week02-03\exercise01\obj\Debug\net8.0\exercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roanv\OneDrive\Documenten\howest 2023-2024\semister 2\advanced software engineering\ase_week02-03\exercise01\obj\Debug\net8.0\exercise01.AssemblyInfoInputs.cache
+C:\Users\roanv\OneDrive\Documenten\howest 2023-2024\semister 2\advanced software engineering\ase_week02-03\exercise01\obj\Debug\net8.0\exercise01.AssemblyInfo.cs
+C:\Users\roanv\OneDrive\Documenten\howest 2023-2024\semister 2\advanced software engineering\ase_week02-03\exercise01\obj\Debug\net8.0\exercise01.csproj.CoreCompileInputs.cache
+C:\Users\roanv\OneDrive\Documenten\howest 2023-2024\semister 2\advanced software engineering\ase_week02-03\exercise01\obj\Debug\net8.0\exercise01.dll
+C:\Users\roanv\OneDrive\Documenten\howest 2023-2024\semister 2\advanced software engineering\ase_week02-03\exercise01\obj\Debug\net8.0\refint\exercise01.dll
+C:\Users\roanv\OneDrive\Documenten\howest 2023-2024\semister 2\advanced software engineering\ase_week02-03\exercise01\obj\Debug\net8.0\exercise01.pdb
+C:\Users\roanv\OneDrive\Documenten\howest 2023-2024\semister 2\advanced software engineering\ase_week02-03\exercise01\obj\Debug\net8.0\exercise01.genruntimeconfig.cache
+C:\Users\roanv\OneDrive\Documenten\howest 2023-2024\semister 2\advanced software engineering\ase_week02-03\exercise01\obj\Debug\net8.0\ref\exercise01.dll
